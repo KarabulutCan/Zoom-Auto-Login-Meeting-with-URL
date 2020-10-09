@@ -15,7 +15,7 @@ Derslerine girebiliyor. Dersler değiştirilebilir.
 
 -> Kendi ihtiyacımızı karşılamak için yapılmıştır. Derse girip senin yerine hocayla sohbet etmesini bekleme.
 
--> Konsolu kapatmadığınız sürece kapanmaz. Bir Cloud uygulamasına atılıp sürekli calıstırılabilirsin. "main.exe" ye tıklaman yeterli.
+-> Konsolu kapatmadığın sürece kapanmaz. Bir Cloud uygulamasına atılıp sürekli calıstırılabilirsin. "main.exe" ye tıklaman yeterli.
 
 -> Dersin baslama saatinde giriş yapıyor. Hoca yayını gec acsa bile bekleme ekranında olacagı için ders acıldığından derse baglanır.
 
